@@ -27,7 +27,7 @@ function Home() {
         and this gave me a confidence to stand among them.
       </p>
       <a
-        href="https://github.com/00shalini/Shaliniportfolio/raw/master/portfolio/shaliniportfolio/src/Resume.pdf"
+        href="https://github.com/00shalini/portfolio/raw/main/Shaliniportfolio/src/Shalini.pdf"
         style={{ textDecoration: "none" }}
         download
       >
